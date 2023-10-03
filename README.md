@@ -2,7 +2,7 @@
  SketchBook Data
 
 # Emojis.zip
-https://github.com/Jamalzahid/SketchBook-Assets/raw/main/Emojis.zip
+https://github.com/flitchlabs/STA-Asst/SketchBook-Assets/raw/main/Emojis.zip
 
 # Sketch Backgrounds
 https://github.com/Jamalzahid/SketchBook-Assets/raw/main/SketchBgs.zip
