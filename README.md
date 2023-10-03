@@ -1,5 +1,5 @@
 # SketchBook-Assets
- SketchBook Data
+ SketchBook Data BASE=https://github.com/flitchlabs/STA-Asst
 
 # Emojis.zip
 /raw/main/Emojis.zip
