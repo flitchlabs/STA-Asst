@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Animal",
+        "type": "Animal"
+    },
+    {
+        "name": "Snow men",
+        "type": "Snow men"
+    },
+    {
+        "name": "Love",
+        "type": "Love"
+    },
+    {
+        "name": "Sketch",
+        "type": "Sketch"
+    },
+    {
+        "name": "Text",
+        "type": "Text"
+    }
+]
